@@ -1,0 +1,16 @@
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\bin\Debug\net5.0\SevenTwentySeven.exe
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\bin\Debug\net5.0\SevenTwentySeven.deps.json
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\bin\Debug\net5.0\SevenTwentySeven.runtimeconfig.json
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\bin\Debug\net5.0\SevenTwentySeven.runtimeconfig.dev.json
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\bin\Debug\net5.0\SevenTwentySeven.dll
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\bin\Debug\net5.0\ref\SevenTwentySeven.dll
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\bin\Debug\net5.0\SevenTwentySeven.pdb
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\SevenTwentySeven.csproj.AssemblyReference.cache
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\SevenTwentySeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\SevenTwentySeven.AssemblyInfoInputs.cache
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\SevenTwentySeven.AssemblyInfo.cs
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\SevenTwentySeven.csproj.CoreCompileInputs.cache
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\SevenTwentySeven.dll
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\ref\SevenTwentySeven.dll
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\SevenTwentySeven.pdb
+C:\Users\ten1twentyfive\Desktop\SevenTwentySeven\SevenTwentySeven\obj\Debug\net5.0\SevenTwentySeven.genruntimeconfig.cache
